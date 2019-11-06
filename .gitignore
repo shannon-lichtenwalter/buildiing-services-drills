@@ -1,2 +1,11 @@
 node_modules
 .env
+blogful-scripts
+seed.whopipe-and-amazong.sql
+whopipe-and-amazong.sql
+blogful.js
+articles-service.js
+drills.js
+practice.js
+articles-service.spec.js
+temp.spec.js
